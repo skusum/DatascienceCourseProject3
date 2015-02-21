@@ -69,3 +69,4 @@ dat15 <- cbind(Activity_Name, dat14)
 
 ##switching the first two columns so that the Subject column appears first, just to make the data look nicer??
 dat15 <- dat15[ , c(2, 1, 3:82)]
+## This is my Tidy Data
